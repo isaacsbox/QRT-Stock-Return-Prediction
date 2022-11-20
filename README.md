@@ -6,4 +6,6 @@
 
 <b> transformers.ipynb </b> Applies transformers, but couldn't finish running in time for the hackathon.
 
+<b> Reg ML Algo Testing.ipynb </b> Contains our code for the benchmark submission. 
+
 Upon analysing relationships between any statistical correlation between these two features, we discovered there was some correlation with regards to the average volume to the average return within a particular sector/industry. There was laggy behaviour which implied that the volume traded was a good indicator with regards to which direction a stock would move and some link to how much it would move. However upon training, we discovered that the significance of these features was poor (even after feature engineering in multiple ways also attempting to offset the data in order i.e shift by 1 day). Therefore we decided to avoid using Volume to avoid any overfitting and improve generalisation on our validation sets
