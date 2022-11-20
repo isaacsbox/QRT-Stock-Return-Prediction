@@ -4,7 +4,7 @@
 
 ![similarity_between_time_series_ron](https://user-images.githubusercontent.com/63469131/202898250-c98d5834-9025-473c-ab49-35459aef2ea4.png)
 
-<b> transformers.ipynb </b> Applies transformers, but couldn't finish running in time for the hackathon.
+<b> transformers.ipynb </b> Applies transformers, but didn't finish running in time for the hackathon.
 
 <b> knn.ipynb </b> Is more exploratory analysis. We used a latent factor model to learn the features of sectors in the dataset. So far, the accuracy is quite low.
 
